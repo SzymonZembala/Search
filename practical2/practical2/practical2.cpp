@@ -1,9 +1,4 @@
-//============================================================================
-// Name        : practical2.cpp
-// Author      : Your name
-// Version     : 1.0
-// Description : practical 2 - Searching
-//============================================================================
+
 #include "Array.h"
 
 #include <fstream>
