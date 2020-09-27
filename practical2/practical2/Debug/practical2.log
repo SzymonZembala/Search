@@ -1,0 +1,4 @@
+﻿  practical2.cpp
+O:\programming stuff\uni\algorithm and data structures\wk2\practical2\practical2\practical2.cpp(152,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+O:\programming stuff\uni\algorithm and data structures\wk2\practical2\practical2\practical2.cpp(155,6): warning C4101: 'num': unreferenced local variable
+  practical2.vcxproj -> O:\programming stuff\uni\algorithm and data structures\wk2\practical2\Debug\practical2.exe
